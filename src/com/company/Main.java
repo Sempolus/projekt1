@@ -6,6 +6,8 @@ public class Main {
 	// write your code here
         //sout --> skrot
         System.out.println("Test projektu 1");
-        System.out.println("Test projektu 1");
+        System.out.println("Test projektu 2");
+        System.out.println("Sprawdzamy wwersję 3");
+
     }
 }

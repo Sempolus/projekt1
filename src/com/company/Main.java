@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Sprawdzamy wwersję 3");
         System.out.println("zmiana przez zewnetrznego usera");
         //polaczenie githuba i locala
+        System.out.println("nowa funkcjonalność");
     }
 }

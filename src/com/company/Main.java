@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Test projektu 1");
         System.out.println("Test projektu 2");
         System.out.println("Sprawdzamy wwersję 3");
-
+        System.out.println("zmiana przez zewnetrznego usera");
+        //polaczenie githuba i locala
     }
 }
